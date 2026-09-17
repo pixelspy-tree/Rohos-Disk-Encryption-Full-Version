@@ -242,4 +242,4 @@ This repository serves as the official landing page for Rohos Disk Encryption. T
 **Get the most recent version of Rohos Disk Encryption today!**
 
 ---
-**Last updated:** 2026-09-17 07:18:57 UTC
+**Last updated:** 2026-09-17 13:08:44 UTC
